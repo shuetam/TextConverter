@@ -1,0 +1,14 @@
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\bin\Debug\TextConverter.exe.config
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.csprojResolveAssemblyReference.cache
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\MainWindow.g.cs
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\App.g.cs
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter_MarkupCompile.cache
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter_MarkupCompile.lref
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\bin\Debug\TextConverter.exe
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\bin\Debug\TextConverter.pdb
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\MainWindow.baml
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.g.resources
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.Properties.Resources.resources
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.csproj.GenerateResource.Cache
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.exe
+C:\Users\mateu_000\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.pdb
