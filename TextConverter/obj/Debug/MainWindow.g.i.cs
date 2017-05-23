@@ -56,6 +56,14 @@ namespace TextConverter {
         #line default
         #line hidden
         
+        
+        #line 28 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Back;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -105,6 +113,9 @@ namespace TextConverter {
             
             #line default
             #line hidden
+            return;
+            case 4:
+            this.Back = ((System.Windows.Controls.Button)(target));
             return;
             }
             this._contentLoaded = true;
