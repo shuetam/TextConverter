@@ -28,12 +28,11 @@ namespace TextConverter
         string text;
         string changeText;
         private void ConvertButton_Click(object sender, RoutedEventArgs e)
-        { Button convert = (Button)sender;
-        
-           
-                 text = TextIn.Text;
-                
-            
+        {
+
+
+            Button convert = (Button)sender;
+            text = TextIn.Text;
             string text2, text3;
             text3 = null;
             text2 = text.Trim();
@@ -48,11 +47,6 @@ namespace TextConverter
             }
 
             TextIn.Text = text3;
-
-
-
-
-
         }
 
         private void ButtonC_Click(object sender, RoutedEventArgs e)
