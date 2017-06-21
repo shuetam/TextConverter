@@ -26,3 +26,6 @@ C:\Users\Mateusz\TextConverter\TextConverter\obj\Debug\MainWindow.baml
 C:\Users\Mateusz\TextConverter\TextConverter\obj\Debug\TextConverter.g.resources
 C:\Users\Mateusz\TextConverter\TextConverter\obj\Debug\TextConverter.Properties.Resources.resources
 C:\Users\Mateusz\TextConverter\TextConverter\obj\Debug\TextConverter.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\bin\Debug\TextConverter.exe.config
+C:\Users\Mateusz\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.exe
+C:\Users\Mateusz\Dropbox\PROGRAMOWANIE\C#\Applications\TextConverter\TextConverter\TextConverter\obj\Debug\TextConverter.pdb
